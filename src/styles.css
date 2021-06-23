@@ -1,0 +1,19 @@
+.app {
+  width: 200px;
+  margin: auto;
+  border: 1px solid green;
+  border-radius: 3px;
+}
+
+.container {
+  text-align: center;
+}
+
+.categories {
+  display: flex;
+}
+
+.btn {
+  margin: 5px;
+  cursor: pointer;
+}
